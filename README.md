@@ -1,2 +1,2 @@
 # AML
-Advanced ML CS726 Course Project
+Advanced ML CS726 Deep Learning Course Project
