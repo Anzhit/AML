@@ -1,0 +1,26 @@
+HistData.com (c) 2012
+File: DAT_MT_EURUSD_M1_201611.csv Status Report
+
+Gap of 65s found between 20161101162630 and 20161101162741.
+Gap of 63s found between 20161101163422 and 20161101163532.
+Gap of 64s found between 20161101165018 and 20161101165129.
+Gap of 68s found between 20161101182659 and 20161101182813.
+Gap of 95s found between 20161102004925 and 20161102005106.
+Gap of 63s found between 20161102170228 and 20161102170337.
+Gap of 61s found between 20161102175238 and 20161102175345.
+Gap of 61s found between 20161102175613 and 20161102175720.
+Gap of 68s found between 20161103170528 and 20161103170643.
+Gap of 129s found between 20161103171123 and 20161103171338.
+Gap of 64s found between 20161103171644 and 20161103171755.
+Gap of 65s found between 20161103171833 and 20161103171944.
+Gap of 65s found between 20161103172123 and 20161103172235.
+Gap of 70s found between 20161103174013 and 20161103174129.
+Gap of 63s found between 20161103190553 and 20161103190702.
+Gap of 80s found between 20161104002901 and 20161104003027.
+Gap of 61s found between 20161104013651 and 20161104013759.
+Gap of 68s found between 20161107225803 and 20161107225917.
+Gap of 60s found between 20161107234340 and 20161107234446.
+Gap of 60s found between 20161110175805 and 20161110175912.
+
+Average tick interval: 5235 miliseconds.
+Maximum tick interval found: 129017 miliseconds.
